@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BillingSystem", "BillingSystem\BillingSystem.vbproj", "{F4AEFCEC-1864-4B6B-911C-C0CDAE2BB36C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Ajith Vegi Store", "Ajith Vegi Store\Ajith Vegi Store.vdproj", "{5E93ADA4-37FF-4F92-8737-4CFC86CD7D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4AEFCEC-1864-4B6B-911C-C0CDAE2BB36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AEFCEC-1864-4B6B-911C-C0CDAE2BB36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AEFCEC-1864-4B6B-911C-C0CDAE2BB36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AEFCEC-1864-4B6B-911C-C0CDAE2BB36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E93ADA4-37FF-4F92-8737-4CFC86CD7D05}.Debug|Any CPU.ActiveCfg = Release
+		{5E93ADA4-37FF-4F92-8737-4CFC86CD7D05}.Debug|Any CPU.Build.0 = Release
+		{5E93ADA4-37FF-4F92-8737-4CFC86CD7D05}.Release|Any CPU.ActiveCfg = Release
+		{5E93ADA4-37FF-4F92-8737-4CFC86CD7D05}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B75061B-7FF1-4D32-A910-7BD04CD66444}
+	EndGlobalSection
+EndGlobal
